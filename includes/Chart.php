@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>Belajarphp.net - ChartJS</title>
-        <script src="includes/chart.js"></script>
+        <script src="includeschart.js"></script>
         <style type="text/css">
             .container {
                 width: 50%;
